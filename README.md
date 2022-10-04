@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://vnlab.filmschool.lodz.pl/">
-    <img alt="Gatsby" src="src/images/vnLab-icon.png" />
+    <img alt="Gatsby" src="src/images/vnLab-icon.png" />dadsadadas
   </a>
 </p>
 <h1 align="center">dadadadad
